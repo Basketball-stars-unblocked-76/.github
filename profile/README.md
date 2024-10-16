@@ -9,6 +9,7 @@ https://run3.blog
 https://lesson1.guru
 
 <hr>
+<img src="https://slope.blog/files/image/basketball-stars.png" alt="Basketball Stars" />
 
 **Basketball Stars HTML5 Game: A Deep Dive into the Thrilling World of Online Basketball**
 
